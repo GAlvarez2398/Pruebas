@@ -1,0 +1,17 @@
+commit a734604c1ba406e862d9a212a54dd11a99ec0a94
+Author: Jorge Alvarez <alvarezmolina2398@gmail.com>
+Date:   Tue May 2 15:11:07 2017 -0600
+
+    Elimindado de Archivo de textto
+
+commit 04601b80f6226bbffc5db8d2559f25c94cbaac75
+Author: Jorge Alvarez <alvarezmolina2398@gmail.com>
+Date:   Tue May 2 15:04:46 2017 -0600
+
+    Segunda Subida de Prueba
+
+commit 32807b1e25ebd932d1c24783ae88f5fda4d7a075
+Author: Jorge Alvarez <alvarezmolina2398@gmail.com>
+Date:   Tue May 2 15:00:53 2017 -0600
+
+    Primera subida Prueba
